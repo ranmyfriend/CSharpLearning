@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Login.LoginPage"
+             Title="LoginPage">
+    <VerticalStackLayout Padding="20">
+        <Entry Text="{Binding Username}" Placeholder="Username"/>
+        <Entry Text="{Binding Password}" IsPassword="True" Placeholder="Password"/>
+        <Button Text="Login" Command="{Binding LoginCommand}" IsEnabled="{Binding IsLoginEnabled}"/>
+        <ActivityIndicator IsRunning="{Binding IsBusy}" IsVisible="{Binding IsBusy}"/>
+    </VerticalStackLayout>
+</ContentPage>
