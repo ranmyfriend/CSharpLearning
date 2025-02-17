@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/ranjith/Documents/CSharpLearning/GenericViewWithVM/GenericViewWithVM/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Entitlements.xcent /Users/ranjith/Documents/CSharpLearning/GenericViewWithVM/GenericViewWithVM/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/GenericViewWithVM.app

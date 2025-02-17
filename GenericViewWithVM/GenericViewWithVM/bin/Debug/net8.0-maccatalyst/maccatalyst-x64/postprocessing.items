@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="GenericViewWithVM.app/Contents/MacOS/GenericViewWithVM">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>GenericViewWithVM.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>GenericViewWithVM.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/ranjith/Documents/CSharpLearning/GenericViewWithVM/GenericViewWithVM/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>GenericViewWithVM.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/ranjith/Documents/CSharpLearning/GenericViewWithVM/GenericViewWithVM</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

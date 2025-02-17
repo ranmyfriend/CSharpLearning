@@ -1,0 +1,15 @@
+/Users/ranjith/Documents/CSharpLearning/Design/Design/bin/Debug/net8.0/Design
+/Users/ranjith/Documents/CSharpLearning/Design/Design/bin/Debug/net8.0/Design.deps.json
+/Users/ranjith/Documents/CSharpLearning/Design/Design/bin/Debug/net8.0/Design.runtimeconfig.json
+/Users/ranjith/Documents/CSharpLearning/Design/Design/bin/Debug/net8.0/Design.dll
+/Users/ranjith/Documents/CSharpLearning/Design/Design/bin/Debug/net8.0/Design.pdb
+/Users/ranjith/Documents/CSharpLearning/Design/Design/obj/Debug/net8.0/Design.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ranjith/Documents/CSharpLearning/Design/Design/obj/Debug/net8.0/Design.AssemblyInfoInputs.cache
+/Users/ranjith/Documents/CSharpLearning/Design/Design/obj/Debug/net8.0/Design.AssemblyInfo.cs
+/Users/ranjith/Documents/CSharpLearning/Design/Design/obj/Debug/net8.0/Design.csproj.CoreCompileInputs.cache
+/Users/ranjith/Documents/CSharpLearning/Design/Design/obj/Debug/net8.0/Design.sourcelink.json
+/Users/ranjith/Documents/CSharpLearning/Design/Design/obj/Debug/net8.0/Design.dll
+/Users/ranjith/Documents/CSharpLearning/Design/Design/obj/Debug/net8.0/refint/Design.dll
+/Users/ranjith/Documents/CSharpLearning/Design/Design/obj/Debug/net8.0/Design.pdb
+/Users/ranjith/Documents/CSharpLearning/Design/Design/obj/Debug/net8.0/Design.genruntimeconfig.cache
+/Users/ranjith/Documents/CSharpLearning/Design/Design/obj/Debug/net8.0/ref/Design.dll

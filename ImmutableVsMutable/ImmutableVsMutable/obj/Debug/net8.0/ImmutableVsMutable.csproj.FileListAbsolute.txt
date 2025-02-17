@@ -1,0 +1,15 @@
+/Users/ranjith/Documents/CSharpLearning/ImmutableVsMutable/ImmutableVsMutable/bin/Debug/net8.0/ImmutableVsMutable
+/Users/ranjith/Documents/CSharpLearning/ImmutableVsMutable/ImmutableVsMutable/bin/Debug/net8.0/ImmutableVsMutable.deps.json
+/Users/ranjith/Documents/CSharpLearning/ImmutableVsMutable/ImmutableVsMutable/bin/Debug/net8.0/ImmutableVsMutable.runtimeconfig.json
+/Users/ranjith/Documents/CSharpLearning/ImmutableVsMutable/ImmutableVsMutable/bin/Debug/net8.0/ImmutableVsMutable.dll
+/Users/ranjith/Documents/CSharpLearning/ImmutableVsMutable/ImmutableVsMutable/bin/Debug/net8.0/ImmutableVsMutable.pdb
+/Users/ranjith/Documents/CSharpLearning/ImmutableVsMutable/ImmutableVsMutable/obj/Debug/net8.0/ImmutableVsMutable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ranjith/Documents/CSharpLearning/ImmutableVsMutable/ImmutableVsMutable/obj/Debug/net8.0/ImmutableVsMutable.AssemblyInfoInputs.cache
+/Users/ranjith/Documents/CSharpLearning/ImmutableVsMutable/ImmutableVsMutable/obj/Debug/net8.0/ImmutableVsMutable.AssemblyInfo.cs
+/Users/ranjith/Documents/CSharpLearning/ImmutableVsMutable/ImmutableVsMutable/obj/Debug/net8.0/ImmutableVsMutable.csproj.CoreCompileInputs.cache
+/Users/ranjith/Documents/CSharpLearning/ImmutableVsMutable/ImmutableVsMutable/obj/Debug/net8.0/ImmutableVsMutable.sourcelink.json
+/Users/ranjith/Documents/CSharpLearning/ImmutableVsMutable/ImmutableVsMutable/obj/Debug/net8.0/ImmutableVsMutable.dll
+/Users/ranjith/Documents/CSharpLearning/ImmutableVsMutable/ImmutableVsMutable/obj/Debug/net8.0/refint/ImmutableVsMutable.dll
+/Users/ranjith/Documents/CSharpLearning/ImmutableVsMutable/ImmutableVsMutable/obj/Debug/net8.0/ImmutableVsMutable.pdb
+/Users/ranjith/Documents/CSharpLearning/ImmutableVsMutable/ImmutableVsMutable/obj/Debug/net8.0/ImmutableVsMutable.genruntimeconfig.cache
+/Users/ranjith/Documents/CSharpLearning/ImmutableVsMutable/ImmutableVsMutable/obj/Debug/net8.0/ref/ImmutableVsMutable.dll
